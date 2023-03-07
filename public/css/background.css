@@ -1,0 +1,11 @@
+body {
+    background-color: #C1C7D7;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-danger {
+    background: #f64f02;
+    border: none;
+    border-radius: 7px;
+    /* padding: 15px; */
+}

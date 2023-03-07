@@ -1,0 +1,122 @@
+[
+    {
+       "id":1,
+       "title":"El viejo y el mar",
+       "genre":"Sequi.",
+       "author":"Ernest Hemingway",
+       "publisher":"Quigley PLC",
+       "year":1999
+    },
+    {
+       "id":2,
+       "title":"El Alquimista",
+       "genre":"Sequi.",
+       "author":"Paulo Coelho",
+       "publisher":"Booket",
+       "year":1999
+    },
+    {
+       "id":3,
+       "title":"Hippie",
+       "genre":"Autobiográfico",
+       "author":"Paulo Coelho",
+       "publisher":"Booket",
+       "year":2021
+    },
+    {
+       "id":4,
+       "title":"Itaque odio.",
+       "genre":"Enim deserunt.",
+       "author":"Alexanne Hagenes",
+       "publisher":"Cartwright, Smitham and Lueilwitz",
+       "year":1974
+    },
+    {
+       "id":5,
+       "title":"Reprehenderit voluptas at.",
+       "genre":"Aut.",
+       "author":"Mina Conn PhD",
+       "publisher":"Keeling Group",
+       "year":2020
+    },
+    {
+       "id":6,
+       "title":"Distinctio ipsum dolorem.",
+       "genre":"Ad eos.",
+       "author":"Prof. Scotty Gislason MD",
+       "publisher":"McCullough-Runolfsdottir",
+       "year":2004
+    },
+    {
+       "id":7,
+       "title":"Cupiditate sint nemo.",
+       "genre":"Recusandae.",
+       "author":"Elsie Walsh",
+       "publisher":"Kunze-Fay",
+       "year":1977
+    },
+    {
+       "id":8,
+       "title":"Et eligendi eitus reiciendis.",
+       "genre":"Nihil voluptates.",
+       "author":"Ward Turcotte",
+       "publisher":"Zulauf-Heidenreich",
+       "year":1975
+    },
+    {
+       "id":9,
+       "title":"Nam sunt eos voluptatum.",
+       "genre":"Fugit.",
+       "author":"Giuseppe Rodriguez",
+       "publisher":"Hayes-Larson",
+       "year":2004
+    },
+    {
+       "id":10,
+       "title":"Perspiciatis architecto maxime",
+       "genre":"Et nesciunt.",
+       "author":"Ila Denesik Sr.",
+       "publisher":"Franeckit Group",
+       "year":2003
+    },
+    {
+       "id":11,
+       "title":"Quia hic eos.",
+       "genre":"Sapiente.",
+       "author":"Wyatt Bode",
+       "publisher":"Sawayn, Hermiston and Stokes",
+       "year":1988
+    },
+    {
+       "id":22,
+       "title":"Animi facilis velit.",
+       "genre":"Laudantium.",
+       "author":"Dr. Luz Schmidt IV",
+       "publisher":"Turcotte, Parker and Schaefer",
+       "year":2009
+    },
+    {
+       "id":13,
+       "title":"Deserunt sed molestias.",
+       "genre":"Sint.",
+       "author":"Miss Maymie Blick PhD",
+       "publisher":"Douglas-Jacobs",
+       "year":1988
+    },
+    {
+       "id":14,
+       "title":"Consectetur excepturi.",
+       "genre":"Incidunt.",
+       "author":"Shanon Kuhn",
+       "publisher":"Ullrich-Schimmetl",
+       "year":2012
+    },
+    {
+       "id":15,
+       "title":"Aut veritatis qui accusamus.",
+       "genre":"Harum.",
+       "author":"Dr. Cesar Mann",
+       "publisher":"Schiller-Lang",
+       "year":1998
+    }
+ ]
